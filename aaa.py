@@ -7,4 +7,4 @@ for i in range (len(c)-4):
         if (c[i]*c[i+j])%3==0 and (c[i]+c[i+j])%3!=0:
             k+=1
 print(k)
-print("go jjj")
+print("go")
